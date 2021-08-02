@@ -13,7 +13,7 @@
       <h1 class="name">I'm Justin Barcos
       <br>
       <br>
-      <p class="introstatement">“Seeing stars at night gives me calm and peace in my mind”</p>
+      <p class="introstatement">“Seeing stars at night gives me calm and peace in my mind.”</p>
     </div>
     <br>
     <br>
@@ -23,7 +23,7 @@
             <img src="https://scontent.fmnl17-4.fna.fbcdn.net/v/t1.6435-9/153820437_2567533146876292_7103342681663667133_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeF38XvoR5ifLM91dvU4BxdJM9kf7RZexf8z2R_tFl7F_9pDIAnAFmlVkCNuF89H47k3lpSwm9YcI07WLWMnQtnk&_nc_ohc=JN3Xg8oG9AgAX_Mu1e8&_nc_ht=scontent.fmnl17-4.fna&oh=6037378a5bb235010b28d575ffed269e&oe=612EB1C9" alt="justinpic"class="img-fluid rounded-circle" height=500 width=500>
         </div>
         <div class="col-7 Myinfos">
-          <p>Hello Everyone!</p>
+          <p style="font-size:2em">Hello Everyone!</p>
           <p>I'm <b>Justin Angelo S. Barcos</b></p>
           <p>Studying at University of Makati and now taking 2nd Year College as Computer Science Student
           <p>Born in November 3, 2001 which is now 19 years old</p>

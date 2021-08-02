@@ -6,7 +6,7 @@ body{
 .firstpic{
     background-image: url("https://images.unsplash.com/photo-1536383389102-0ac333c44981?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80");  
     background-repeat: no-repeat; background-position: center center;background-attachment: fixed;-webkit-background-size: cover;
-  -moz-background-size: cover;-o-background-size: cover; background-size: cover; height: 60rem;
+  -moz-background-size: cover;-o-background-size: cover; background-size: cover; height: 60rem;padding-top: 20%;
 
 }
 
@@ -26,6 +26,3 @@ body{
 .Myinfos{
     font-size:24px;padding: 5%;
 }
-
-  
-  
